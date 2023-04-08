@@ -1,8 +1,7 @@
 /***********************************************************
 Project 18: Smart Fan
 Description: When an object comes in front of it, it detects and fan starts rotating
-Company: Texoham eLearning Platform
-Website: www.texoham.com/elearning
+By ANANYA KONDETI
 ***********************************************************/
 const int Input3 = 8;                 //arduino 8th pin connected to L293D pin input3
 const int Input4 = 9;  
